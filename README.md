@@ -38,7 +38,7 @@ ReLU + Dropout + AdamW + Early Stopping
 
 ---
 
-## 📦 2
+## 📦 Requiremets
 pandas
 numpy
 matplotlib
