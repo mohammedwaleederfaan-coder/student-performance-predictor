@@ -12,7 +12,9 @@ A Machine Learning project that predicts student exam scores using both Classica
 ---
 
 ## 🏗️ Project Structure
+
 student-performance-predictor/
+
 ├── main.py                  ← Full pipeline
 ├── best_model.pkl           ← Best Classical ML model
 ├── dl_model.pth             ← Deep Learning model
