@@ -38,26 +38,6 @@ ReLU + Dropout + AdamW + Early Stopping
 
 ---
 
-## 🚀 How to Run
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/mohammedwaleederfaan-coder/student-performance-predictor.git
-cd student-performance-predictor
-```
-
-### 2. Install requirements
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run
-```bash
-python main.py
-```
-
----
-
 ## 📦 2
 pandas
 numpy
