@@ -40,13 +40,21 @@ ReLU + Dropout + AdamW + Early Stopping
 
 ## 📦 Requiremets
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
+
 xgboost
+
 lightgbm
+
 torch
+
 joblib
 
 ---
